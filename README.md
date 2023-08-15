@@ -14,7 +14,7 @@ Welcome to the Topic Modeling Web App powered by Machine Learning! This applicat
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contact]
+- [Contact](#contact)
 
 ## Overview
 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 3. Input your text and see the predicted topic!
 
 
-## Contact
+### Contact
 
 For any inquiries, feel free to reach out at [oussamaelhansali@gmail.com](mailto:oussamaelhansali@gmail.com).
 If you have any questions or suggestions. Happy coding! 😄🚀
