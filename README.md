@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0.87.0-brightgreen)
 
+
+![alt text](topic.png)
 Welcome to the Topic Modeling Web App powered by Machine Learning! This application utilizes natural language processing (NLP) techniques to identify the topics in a given text. Whether you're a data enthusiast or a curious learner, this app can help you explore the hidden themes within textual content.
 
 ## Table of Contents
